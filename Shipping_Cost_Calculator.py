@@ -11,4 +11,3 @@ shipping_cost = weight * rate
 print(f"Shipping Cost: {shipping_cost} USD")
 
 ECHO is on.
-# Here is another update by <your GitHub username>
